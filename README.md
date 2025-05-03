@@ -11,6 +11,9 @@
 Passionate about leveraging cloud and distributed computing to build scalable solutions. My background in machine learning and electronic engineering gives me a unique perspective on solving complex problems with efficient, technology-driven approaches.
 
 ## 🎓 Education
+**PhD in Computer Science**
+*University of Melbourne, Australia | 2025-Present*
+
 **B.Sc. Eng (Hons) in Electronic and Telecommunication Engineering**  
 *University of Moratuwa, Sri Lanka | 2018-2023*  
 - First Class Honours
