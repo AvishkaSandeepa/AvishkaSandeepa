@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/avishkasandeepa/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:avishkasandeepa.official@gmail.com)
-<!-- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_publications-blue)](https://scholar.google.com/citations?user=yourid) -->
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_publications-blue)](https://scholar.google.com/citations?user=Qm0gvDUAAAAJ&hl=en&authuser=2)
 
 
 **Graduate Researcher | Cloud & Distributed Computing Enthusiast**
