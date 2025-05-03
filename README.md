@@ -14,10 +14,10 @@ Passionate about leveraging cloud and distributed computing to build scalable so
 **B.Sc. Eng (Hons) in Electronic and Telecommunication Engineering**  
 *University of Moratuwa, Sri Lanka | 2018-2023*  
 - First Class Honours
-- 
+  
 ## 💼 Professional Experience
 **Software Engineer** @ [Axiata Digital Labs](https://www.axiatadigitallabs.com/)  
-*July 2023 - Present | Colombo, Sri Lanka*  
+*July 2023 - March 2025 | Colombo, Sri Lanka*  
 - Design and implement scalable RESTful APIs with cloud integrations
 - Optimize database management systems and workflows
 - Implement CI/CD pipelines for efficient development
